@@ -2,3 +2,4 @@
 11/15/16 current experiment = ["death-odds" [0 0.25 5]]
 11/15/16 current experiment2 = ["infectious-level" [0 5 100]]
 11/15/16 current experiment3 = ["MovementOdds" [0 1 20]]
+11/16/16 exp4 = ["MovementOdds"[0.5 0.5 20]]
