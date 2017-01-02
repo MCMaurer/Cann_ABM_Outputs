@@ -1,0 +1,36 @@
+"BehaviorSpace results (NetLogo 5.2.0)"
+"/Users/mjculsha/Documents/Cannibalism_ABM_Project/Cannibalism_Infection_Model 11_1_16.nlogo"
+"current_experiment3"
+"01/01/2017 09:05:56:137 -0800"
+"min-pxcor","max-pxcor","min-pycor","max-pycor"
+"-16","16","-16","16"
+"[run number]"
+"infection-arrival-time",
+"inf-death-modifier",
+"juv-death-odds",
+"juv-move-modifier",
+"MovementOdds",
+"vert-trans-odds",
+"maturation-time",
+"inf-cannibalism-level",
+"infectious-level",
+"inf-juv-death-modifier",
+"initial-number-uninfecteds",
+"death-odds",
+"inf-mature-modifier",
+"inf-fecund-modifier",
+"vertical-transmission",
+"cannibalism-level",
+"infect-at-tick",
+"initial-number-infecteds",
+"fecundity",
+"can-move-modifier",
+"uninfected-cannibalize?",
+"[reporter]"
+"[final]",
+"[min]",
+"[max]",
+"[mean]",
+"[steps]",
+
+"[all run data]"
